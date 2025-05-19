@@ -1,3 +1,4 @@
+console.log("Dates.js loaded...");
 //STEP 1
 
 //Create an application that gets the number of days in a month. Display that result within the console window.

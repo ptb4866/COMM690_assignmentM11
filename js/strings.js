@@ -1,7 +1,7 @@
 //STEP 1
 //Create an application that prompts the user for their name. Then, find the length of characters in the person’s name. Use the alert method to display the result.
 //Create a variable to hold the name
-let username = prompt("STEP1: Please enter your name:");
+let username = prompt("STEP 1: Please enter your name:");
 //Create a variable to hold the length of the name
 let nameLength = username.length;
 //Display the length of the name using alert

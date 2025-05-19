@@ -1,5 +1,4 @@
-//Solve the following string/math/number/function/array-related problems. Each solution should be written within its own function and the output should be displayed within a console window. The display should be the return value of the function call.
-
+console.log("DeathbyJS.js loaded...");
 //STEP 1
 /* Write a JavaScript function that returns a passed string with letters in alphabetical order. Assume punctuation and number symbols are not included in the passed-in string.
 

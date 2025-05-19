@@ -1,3 +1,4 @@
+console.log("Math.js loaded...");
 //STEP 1
 //Create an application that prompts the user for a number. Regardless of whether they enter a negative or positive number, make sure to display the positive version of that number in the console window. If I enter -15 in the prompt and -15 is displayed in the console window, you did this one wrong.
 // //Create a variable to hold the number
